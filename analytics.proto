@@ -9,11 +9,11 @@ message CommonProperties {
     required string local_client_timestamp = 3 [json_name = "Local Client Timestamp"];
     /// PST
     required string local_client_timezone = 4 [json_name = "Local Client Time Zone"];
-    /// Ashkon
+    /// John
     optional string first_name = 5 [json_name = "$first_name"];
-    /// Nosrat
+    /// Connor
     optional string last_name = 6 [json_name = "$last_name"];
-    /// ashkon.nostrat@mixpanel.com
+    /// john.connor@sky.net
     optional string email = 7 [json_name = "$email"];
     /// (555) 555-555
     optional string Phone = 8 [json_name = "$phone"];
