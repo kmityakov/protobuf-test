@@ -22,9 +22,9 @@
 | global_client_timestamp | Global Client Timestamp | [string](#string) | required | 8/6/2015 23:00:00 |
 | local_client_timestamp | Local Client Timestamp | [string](#string) | required | 8/6/2015 23:00:00 |
 | local_client_timezone | Local Client Time Zone | [string](#string) | required | PST |
-| first_name | $first_name | [string](#string) | optional | Ashkon |
-| last_name | $last_name | [string](#string) | optional | Nosrat |
-| email | $email | [string](#string) | optional | ashkon.nostrat@mixpanel.com |
+| first_name | $first_name | [string](#string) | optional | John |
+| last_name | $last_name | [string](#string) | optional | Connor |
+| email | $email | [string](#string) | optional | john.connor@sky.net |
 | Phone | $phone | [string](#string) | optional | (555) 555-555 |
 | mc | MC | [string](#string) | optional | 782958 |
 | dot | DOT | [string](#string) | optional | 2298495 |
